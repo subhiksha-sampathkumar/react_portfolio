@@ -1,0 +1,24 @@
+{
+"response_code": 0, 
+"results": 
+[
+{
+        "projName": "My Portfolio",
+        "image": "./images/proj2.png",
+        "projDesc": "This projectshowcases my portfolio, giving information about me, various projects done by me.",
+        "skillSet": "Node, Express and Pug with javascript employing fetch for obtaining data from cookery websites through their APIs"
+},
+{
+        "projName": "API access through REACT",
+        "image": "./images/proj3.png",
+        "projDesc": "This project obtains a random question from the trivia website employing their API and conditionally renders the result as per the users choice whether to display the result or not",
+        "skillSet": "Node, Express and react employing fetch for obtaining data from trivia websites through their APIs"
+},
+{
+        "projName": "Enumerator - The Monopoly game finance manager",
+        "image": "./images/proj1.png",
+        "projDesc": "This project enumerates the Monopoly game and keeps track of the finances of the players as well as the Banker.  It helps the players to throw the dice and keeps track of their movements and the transactions that result, be it buying a site, renting a site or paying communitiy expenses or getting a community reward and update the finances of the involved parties accordingly. A summary of assets and finances held at any point of the game is obtainable in case it is decided to close the game and declare the ranking of the players.  This project makes the Monopoly game playing experience free from the hassles of maintaining the financial updates manually.",
+        "skillSet": "javascript employing DOM model"
+}
+]
+}

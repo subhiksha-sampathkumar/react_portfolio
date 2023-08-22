@@ -1,0 +1,23 @@
+#border {
+    box-sizing: border-box;
+    border: 1px solid #969696;
+    padding: 10px;
+}
+
+#projectlabel1 {
+    font-style: italic;
+}
+
+#projectlabel2 {
+    font-style: italic;
+}
+
+#projectlabel3 {
+    font-style: italic;
+}
+
+#answerdiv {
+    color: green;
+    font-weight: bold;
+    padding: 10px;
+}
